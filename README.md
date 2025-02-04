@@ -1,4 +1,4 @@
-<h1>Juego Secreto</h1>
+<h1>Amigo Secreto</h1>
 
 - Estado del proyecto: En construcción.
 
