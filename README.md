@@ -1,6 +1,6 @@
 <h1>Amigo Secreto</h1>
 
-- Estado del proyecto: En construcción.
+- Estado del proyecto: Terminado.
 
 <h2>🔨 Funcionalidades del proyecto</h2>
 <ul>
